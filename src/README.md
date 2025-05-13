@@ -1,6 +1,6 @@
 # Quiz App
 
-Bu sadə bir React ilə hazırlanmış quiz tətbiqidir. İstifadəçiyə suallar təqdim olunur və hər suala 15 saniyə vaxt verilir.
+Bu sadə bir React ilə hazırlanmış quiz tətbiqidir. İstifadəçiyə suallar təqdim olunur və 5 sual ucun umumi 60 saniyə vaxt verilir.
 
 ## 🔧 Texnologiyalar
 
