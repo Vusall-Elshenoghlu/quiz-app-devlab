@@ -32,7 +32,7 @@ function QuestionCard({ questionObj, questionNumber, totalQuestions, onAnswerCli
 
             return (
               <motion.div
-                whileTap={{ scale: 0.95 }}
+                whileTap={{ scale: 0.90 }}
                 key={index}
                 className="option-button"
               >
